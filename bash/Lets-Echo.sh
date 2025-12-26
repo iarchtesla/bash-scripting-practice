@@ -4,4 +4,4 @@
 
 echo "HELLO"
 
-# Original Challenge: https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem
+ Original Challenge: https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem
