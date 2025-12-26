@@ -1,0 +1,55 @@
+# Editor temporary files
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Vim
+.sw[a-p]
+[._]*.s[a-v][a-z]
+[._]*.un~
+[._]s[a-v][a-z]
+.netrwhist
+
+# Emacs
+*#
+.#*
+*.elc
+auto-save-list/
+tramp
+.\#*
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# IntelliJ / JetBrains
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs and temporary outputs
+*.log
+output/
+temp_*
+test_*.out
+
+# General
+node_modules/
+__pycache__/
+*.py[cod]
