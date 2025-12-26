@@ -1,3 +1,6 @@
+[![HackerRank](https://img.shields.io/badge/HackerRank-Linux_Shell-2DC26B?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/domains/shell)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 # Bash Scripting Practice - HackerRank Linux Shell Challenges
 
 This repository contains **my personal solutions** to the challenges in the **Linux Shell** domain on HackerRank.
